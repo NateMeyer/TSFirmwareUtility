@@ -1,0 +1,79 @@
+<mxfile host="65bd71144e">
+    <diagram name="Page-1" id="ebvjmBjgzwU3Xkbv4haA">
+        <mxGraphModel dx="1033" dy="623" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="y9ZCqowgii6CUJ0NxSHU-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="160" y="160" width="600" height="360" as="geometry"/>
+                </mxCell>
+                <mxCell id="y9ZCqowgii6CUJ0NxSHU-2" value="&lt;div align=&quot;left&quot;&gt;Current Firmware Version&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;FPGA DNA&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Firmware Build Date&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Serial Number&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Hardware Revision&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+                    <mxGeometry x="180" y="400" width="270" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="y9ZCqowgii6CUJ0NxSHU-3" value="&lt;div&gt;Temperature&lt;/div&gt;&lt;div&gt;Voltages&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="470" y="400" width="270" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="y9ZCqowgii6CUJ0NxSHU-4" value="File Picker" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="200" y="280" width="390" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="y9ZCqowgii6CUJ0NxSHU-5" value="Connect" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="610" y="225" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="y9ZCqowgii6CUJ0NxSHU-6" value="Browse" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="610" y="280" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="y9ZCqowgii6CUJ0NxSHU-7" value="&lt;div&gt;ThunderScope Firmware Update Utility&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" parent="1" vertex="1">
+                    <mxGeometry x="169" y="170" width="582" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="y9ZCqowgii6CUJ0NxSHU-8" value="Status bar" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+                    <mxGeometry x="160" y="500" width="600" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="y9ZCqowgii6CUJ0NxSHU-9" value="ThunderScope Select Dropdown" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="200" y="225" width="390" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="y9ZCqowgii6CUJ0NxSHU-10" value="&lt;div&gt;Get Factory&lt;/div&gt;&lt;div&gt;Calibration Values&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="545" y="330" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="zzgekEBjFSDMwc6cdyBM-1" value="Update Firmware" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="255" y="330" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="zzgekEBjFSDMwc6cdyBM-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#ed333b;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="459.5" y="600" as="sourcePoint"/>
+                        <mxPoint x="459.5" y="80" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="zzgekEBjFSDMwc6cdyBM-5" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#ed333b;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="80" y="210" as="sourcePoint"/>
+                        <mxPoint x="800" y="210" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="zzgekEBjFSDMwc6cdyBM-6" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#ed333b;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="80" y="270" as="sourcePoint"/>
+                        <mxPoint x="800" y="270" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="zzgekEBjFSDMwc6cdyBM-7" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#ed333b;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="90" y="320" as="sourcePoint"/>
+                        <mxPoint x="810" y="320" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="zzgekEBjFSDMwc6cdyBM-8" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#ed333b;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="100" y="380" as="sourcePoint"/>
+                        <mxPoint x="820" y="380" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="zzgekEBjFSDMwc6cdyBM-9" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#ed333b;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="110" y="490" as="sourcePoint"/>
+                        <mxPoint x="830" y="490" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
